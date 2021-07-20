@@ -1,4 +1,1 @@
-### Welcome to my study repository.
-This repository is organized by branchs. 
-The study topics, are also listed bellow:
-- [Kotlin Spring Boot Study](https://github.com/BordalloG/study/tree/kotlin-spring-boot)
+Study from book [Spring Security in Action](https://www.manning.com/books/spring-security-in-action)
